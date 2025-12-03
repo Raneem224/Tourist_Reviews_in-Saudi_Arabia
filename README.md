@@ -39,3 +39,8 @@ import pandas as pd
 
 df = pd.read_csv('dataset.csv')
 print(df.head())
+
+## Citation
+If you use this dataset in your research, please cite:
+Raneem_Alharbi, Saudi Tourism Reviews Sentiment Dataset, GitHub, 2025.
+Link: https://github.com/Raneem224/Tourist_Reviews_in-Saudi_Arabia
